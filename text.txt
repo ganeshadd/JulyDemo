@@ -1,0 +1,19 @@
+20 Char:
+Ganesh is an AI Trainer .
+He also does consulting for the organizations and helps them transform  workforce int AI ready workforce.
+He has got certain products as well in AI Space.
+
+
+#1 Fixed size Chunking
+#2 Sentence Chunking
+#3 Semantic Chunking
+#4 Overlapping Chunking 
+
+
+Company History
+products
+Financials
+Future plans
+
+"Chunking is the process of breaking large amounts of information into smaller, 
+meaningful units so that humans and AI systems can process, understand, and remember it more effectively"
